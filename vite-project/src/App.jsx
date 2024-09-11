@@ -1,11 +1,9 @@
-import { useState } from 'react'
 import Card from './Card/Card'
 import CardChildren from './Card/CardChildren'
 import Input from './Card/Input'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
