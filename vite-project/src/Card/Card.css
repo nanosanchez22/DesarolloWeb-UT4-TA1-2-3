@@ -1,0 +1,22 @@
+.card{
+    border: 1px solid #ccc;
+    border-radius: 2em;
+    padding: 2em;
+    margin: 0.5em auto;
+    max-width: 300px;
+}
+
+.input-card{
+    max-width: fit-content;
+    margin: 0 auto;
+}
+
+.input-card > input{
+    padding: 0.5em;
+    border-radius: 0.5em;
+    border: 1px solid #ccc;
+}
+
+.input-card > p{
+    max-width: max-content;
+}
